@@ -1,5 +1,7 @@
 from sqlite3 import connect, OperationalError
 from tkinter import Tk, Button, Frame, ttk, Label, Entry
+# from tkinter import Tk, ttk
+# from tkinter.ttk import Button, Frame, Label, Entry
 from tkinter.messagebox import askyesno, showinfo
 
 
